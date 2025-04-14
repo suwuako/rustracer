@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+cargo run > out.ppm
+nsxiv out.ppm
